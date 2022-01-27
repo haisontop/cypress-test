@@ -18,6 +18,7 @@ jobs:
           uses: cypress-io/github-action@v2
           with:
             build: npm run build
+            test: npm run test
             start: npm start
   build:
 
