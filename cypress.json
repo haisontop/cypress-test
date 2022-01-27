@@ -1,6 +1,6 @@
 {
     "video": true,
-    "projectId": "jq5xpp",
+    "projectId": "uqv3g9",
     "component": {
         "testFiles": "**/*.spec.{js,ts,jsx,tsx}",
         "componentFolder": "src"
